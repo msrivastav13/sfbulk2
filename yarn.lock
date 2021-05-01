@@ -4481,10 +4481,10 @@ node-preload@^0.2.1:
   dependencies:
     process-on-spawn "^1.0.0"
 
-node-sf-bulk2@^0.0.18:
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/node-sf-bulk2/-/node-sf-bulk2-0.0.18.tgz#a34df9e0dfd728cb25ec30804e1b53c0911fb951"
-  integrity sha512-SnPFzPrwZ4fBnpGoLdkTXfTDwDGhljttCNMSgXXb4waPh/kF04lH1+S0cnO+uQ/+n215qrK/uHnG3LFxIYq0gg==
+node-sf-bulk2@^0.0.23:
+  version "0.0.23"
+  resolved "https://registry.yarnpkg.com/node-sf-bulk2/-/node-sf-bulk2-0.0.23.tgz#cd30abecc70f31297ce57e3e83a693ef0715c627"
+  integrity sha512-52Oxyf1+2iVMKXeFdQqJCvaBZ2rH7a8TPDJ2ZHniMZ5scbRm3sv/vToMDSCpt4+GaI6QPmwHrx7Gnta1yZckMA==
   dependencies:
     axios "^0.21.1"
 
